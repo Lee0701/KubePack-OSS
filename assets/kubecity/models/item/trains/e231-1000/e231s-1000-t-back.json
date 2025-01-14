@@ -10635,6 +10635,7 @@
 			"translation": [-1.5, -2, 0]
 		},
 		"head": {
+			"translation": [0, 20, 0],
 			"scale": [4, 4, 4]
 		}
 	},
