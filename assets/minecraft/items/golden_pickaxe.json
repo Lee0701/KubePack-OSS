@@ -1,0 +1,40 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:damage",
+        "normalize": false,
+        "entries": [
+            {
+                "threshold": 0,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/golden_pickaxe"
+                }
+            },
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "minecraft:range_dispatch",
+                    "property": "minecraft:custom_model_data",
+                    "entries": [
+                        {
+                            "threshold": 1,
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "kubecity:item/rails/rail_flat"
+                            }
+                        }
+                    ],
+                    "fallback": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/rail"
+                    }
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/golden_pickaxe"
+        }
+    }
+}
