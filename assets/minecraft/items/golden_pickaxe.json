@@ -37,6 +37,27 @@
                     "type": "minecraft:range_dispatch",
                     "property": "minecraft:custom_model_data",
                     "entries": [
+                        {
+                            "threshold": 312001,
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "kubecity:item/train/312000/312000-t-1"
+                            }
+                        },
+                        {
+                            "threshold": 312002,
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "kubecity:item/train/312000/312000-t-2"
+                            }
+                        },
+                        {
+                            "threshold": 312091,
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "kubecity:item/train/312000/312000-boggie"
+                            }
+                        }
                     ]
                 }
             }
