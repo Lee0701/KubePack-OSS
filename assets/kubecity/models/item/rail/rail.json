@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "kubecity:item/materials/rail",
-		"particle": "kubecity:item/materials/rail"
+		"0": "kubecity:item/rail/rail",
+		"particle": "kubecity:item/rail/rail"
 	},
 	"elements": [
 		{

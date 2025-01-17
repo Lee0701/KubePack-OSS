@@ -21,7 +21,7 @@
                             "threshold": 1,
                             "model": {
                                 "type": "minecraft:model",
-                                "model": "kubecity:item/rails/rail_flat"
+                                "model": "kubecity:item/rail/rail"
                             }
                         }
                     ],
@@ -37,55 +37,6 @@
                     "type": "minecraft:range_dispatch",
                     "property": "minecraft:custom_model_data",
                     "entries": [
-                        {
-                            "threshold": 311001,
-                            "model": {
-                                "type": "minecraft:model",
-                                "model": "kubecity:item/trains/311000/311000_front"
-                            }
-                        },
-                        {
-                            "threshold": 311002,
-                            "model": {
-                                "type": "minecraft:model",
-                                "model": "kubecity:item/trains/311000/311000_middle"
-                            }
-                        },
-                        {
-                            "threshold": 311003,
-                            "model": {
-                                "type": "minecraft:model",
-                                "model": "kubecity:item/trains/311000/311000_back"
-                            }
-                        },
-                        {
-                            "threshold": 311004,
-                            "model": {
-                                "type": "minecraft:model",
-                                "model": "kubecity:item/trains/e231-1000/e231s-1000-tc-front"
-                            }
-                        },
-                        {
-                            "threshold": 311011,
-                            "model": {
-                                "type": "minecraft:model",
-                                "model": "kubecity:item/trains/311000/311000_door_left"
-                            }
-                        },
-                        {
-                            "threshold": 311012,
-                            "model": {
-                                "type": "minecraft:model",
-                                "model": "kubecity:item/trains/311000/311000_door_right"
-                            }
-                        },
-                        {
-                            "threshold": 311091,
-                            "model": {
-                                "type": "minecraft:model",
-                                "model": "kubecity:item/trains/311000/311000_boggie"
-                            }
-                        }
                     ]
                 }
             }
