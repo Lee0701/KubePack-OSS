@@ -64,6 +64,20 @@
                                 "type": "minecraft:model",
                                 "model": "kubecity:item/train/312000/312000-boggie"
                             }
+                        },
+                        {
+                            "threshold": 312092,
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "kubecity:item/train/312000/312000-door-left"
+                            }
+                        },
+                        {
+                            "threshold": 312093,
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "kubecity:item/train/312000/312000-door-right"
+                            }
                         }
                     ]
                 }
