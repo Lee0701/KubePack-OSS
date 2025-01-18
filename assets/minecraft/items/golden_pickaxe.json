@@ -59,6 +59,13 @@
                             }
                         },
                         {
+                            "threshold": 312004,
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "kubecity:item/train/312000/318000-t-1"
+                            }
+                        },
+                        {
                             "threshold": 312091,
                             "model": {
                                 "type": "minecraft:model",
