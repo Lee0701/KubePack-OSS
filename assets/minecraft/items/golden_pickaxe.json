@@ -41,42 +41,56 @@
                             "threshold": 2311001,
                             "model": {
                                 "type": "minecraft:model",
-                                "model": "kubecity:item/trains/e231-1000/e231s-1000-t-middle"
+                                "model": "kubecity:item/trains/e231-1000/e231-1000-t-middle"
                             }
                         },
                         {
                             "threshold": 2311002,
                             "model": {
                                 "type": "minecraft:model",
-                                "model": "kubecity:item/trains/e231-1000/e231s-1000-t-back"
+                                "model": "kubecity:item/trains/e231-1000/e231-1000-t-back"
                             }
                         },
                         {
                             "threshold": 2311003,
                             "model": {
                                 "type": "minecraft:model",
-                                "model": "kubecity:item/trains/e231-1000/e231s-1000-m-middle"
+                                "model": "kubecity:item/trains/e231-1000/e231-1000-m-middle"
                             }
                         },
                         {
                             "threshold": 2311004,
                             "model": {
                                 "type": "minecraft:model",
-                                "model": "kubecity:item/trains/e231-1000/e231s-1000-tc-front"
+                                "model": "kubecity:item/trains/e231-1000/e231-1000-tc-front"
                             }
                         },
                         {
                             "threshold": 2311005,
                             "model": {
                                 "type": "minecraft:model",
-                                "model": "kubecity:item/trains/e231-1000/e231s-1000-tc-front-backlight"
+                                "model": "kubecity:item/trains/e231-1000/e231-1000-tc-front-backlight"
                             }
                         },
                         {
                             "threshold": 2311091,
                             "model": {
                                 "type": "minecraft:model",
-                                "model": "kubecity:item/trains/e231-1000/e231s-1000-boggie"
+                                "model": "kubecity:item/trains/e231-1000/e231-1000-boggie"
+                            }
+                        },
+                        {
+                            "threshold": 2311092,
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "kubecity:item/trains/e231-1000/e231-1000-door-left"
+                            }
+                        },
+                        {
+                            "threshold": 2311093,
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "kubecity:item/trains/e231-1000/e231-1000-door-right"
                             }
                         }
                     ]
