@@ -59,13 +59,6 @@
                             }
                         },
                         {
-                            "threshold": 312004,
-                            "model": {
-                                "type": "minecraft:model",
-                                "model": "kubecity:item/train/312000/318000-t-1"
-                            }
-                        },
-                        {
                             "threshold": 312091,
                             "model": {
                                 "type": "minecraft:model",
@@ -84,6 +77,55 @@
                             "model": {
                                 "type": "minecraft:model",
                                 "model": "kubecity:item/train/312000/312000-door-right"
+                            }
+                        },
+                        {
+                            "threshold": 318001,
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "kubecity:item/train/318000/318000-t-1"
+                            }
+                        },
+                        {
+                            "threshold": 318002,
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "kubecity:item/train/318000/318000-t-2"
+                            }
+                        },
+                        {
+                            "threshold": 318003,
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "kubecity:item/train/318000/318000-tc-1"
+                            }
+                        },
+                        {
+                            "threshold": 318091,
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "kubecity:item/train/318000/318000-boggie"
+                            }
+                        },
+                        {
+                            "threshold": 318092,
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "kubecity:item/train/318000/318000-door-left"
+                            }
+                        },
+                        {
+                            "threshold": 318093,
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "kubecity:item/train/318000/318000-door-right"
+                            }
+                        },
+                        {
+                            "threshold": 318094,
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "kubecity:item/train/318000/318000-seat"
                             }
                         }
                     ]
