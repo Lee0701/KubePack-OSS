@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "kubecity:item/train/312000",
@@ -13,10 +14,10 @@
 			"faces": {
 				"north": {"uv": [4, 1.5625, 3.9375, 2.1875], "texture": "#0"},
 				"east": {"uv": [5.75, 4.5, 5.1875, 6.125], "texture": "#0"},
-				"south": {"uv": [6, 0.5625, 6.0625, 2.1875], "texture": "#0"},
+				"south": {"uv": [4, 1.5625, 3.9375, 2.1875], "texture": "#0"},
 				"west": {"uv": [4, 4.5, 4.5625, 6.125], "texture": "#0"},
-				"up": {"uv": [0, 0, 0.5, 5], "texture": "#missing"},
-				"down": {"uv": [0, 0, 0.5, 5], "texture": "#missing"}
+				"up": {"uv": [4, 1.5625, 3.9375, 2.1875], "texture": "#0"},
+				"down": {"uv": [4, 1.5625, 3.9375, 2.1875], "texture": "#0"}
 			}
 		}
 	],

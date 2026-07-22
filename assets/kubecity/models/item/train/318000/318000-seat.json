@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "kubecity:item/train/318000",
@@ -115,11 +116,11 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [4.75, 8, 9]},
 			"faces": {
 				"north": {"uv": [5.1875, 7.125, 5.625, 7.3125], "texture": "#0"},
-				"east": {"uv": [0, 0, 0, 1], "texture": "#missing"},
+				"east": {"uv": [0, 0, 0, 1], "texture": "#0"},
 				"south": {"uv": [5.1875, 7.125, 5.625, 7.3125], "texture": "#0"},
-				"west": {"uv": [0, 0, 0, 1], "texture": "#missing"},
-				"up": {"uv": [0, 0, 1, 0], "texture": "#missing"},
-				"down": {"uv": [0, 0, 1, 0], "texture": "#missing"}
+				"west": {"uv": [0, 0, 0, 1], "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 0], "texture": "#0"}
 			}
 		},
 		{
@@ -128,11 +129,11 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [10.25, 8, 9]},
 			"faces": {
 				"north": {"uv": [5.1875, 7.125, 5.625, 7.3125], "texture": "#0"},
-				"east": {"uv": [0, 0, 0, 1], "texture": "#missing"},
+				"east": {"uv": [0, 0, 0, 1], "texture": "#0"},
 				"south": {"uv": [5.1875, 7.125, 5.625, 7.3125], "texture": "#0"},
-				"west": {"uv": [0, 0, 0, 1], "texture": "#missing"},
-				"up": {"uv": [0, 0, 1, 0], "texture": "#missing"},
-				"down": {"uv": [0, 0, 1, 0], "texture": "#missing"}
+				"west": {"uv": [0, 0, 0, 1], "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 0], "texture": "#0"}
 			}
 		}
 	],
@@ -146,6 +147,7 @@
 		{
 			"name": "seat",
 			"origin": [3.75, 16, -12.9375],
+			"scope": 0,
 			"color": 0,
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 		}
